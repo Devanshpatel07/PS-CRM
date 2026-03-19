@@ -1,0 +1,8 @@
+{
+  "name": "Smart Public Service CRM (PS-CRM)",
+  "description": "A comprehensive CRM for digital democracy, featuring citizen reporting, admin dispatching, and field officer task management with AI triage and SLA monitoring.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
